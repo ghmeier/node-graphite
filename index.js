@@ -1,1 +1,1 @@
-module.exports = require('./lib/GraphiteClient');
+module.exports = require('./dist/GraphiteClient');
